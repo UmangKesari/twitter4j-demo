@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mTweetCountOperationsTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Testing Count for Hashtag Count for existing hashtag[0m[0m
+[0m[[0minfo[0m] [0m[32m- Testing Count for Hashtag Count for non-existing hashtag [0m[0m
+[0m[[0minfo[0m] [0m[32m- Testing average tweet for the valid user[0m[0m
+[0m[[0minfo[0m] [0m[32m- Testing average tweet for the invalid user[0m[0m
+[0m[[0minfo[0m] [0m[32m- Testing Tweet Count for valid user[0m[0m
+[0m[[0minfo[0m] [0m[32m- Tesing tweet count for invalid user [0m[0m
+[0m[[0minfo[0m] [0m[32m- Testing average ReTweet for valid user[0m[0m
+[0m[[0minfo[0m] [0m[32m- Tesing average Retweet for invalid user [0m[0m
+[0m[[0minfo[0m] [0m[32m- Testing average likes for the tweet for valid user[0m[0m
+[0m[[0minfo[0m] [0m[32m- Tesing average likes for the tweet for invalid user [0m[0m

@@ -1,0 +1,209 @@
+<scoverage 
+statement-count="50" statements-invoked="42" statement-rate="84.00" branch-rate="100.00" version="1.0" timestamp="1501241234965">
+    <packages>
+        <package name="edu.knoldus" statement-count="50" statements-invoked="42" statement-rate="84.00">
+            <classes>
+                <class 
+                name="edu.knoldus.ReadingFoldersAndFiles" filename="edu/knoldus/ReadingFoldersAndFiles.scala" statement-count="11" statements-invoked="11" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="edu.knoldus/ReadingFoldersAndFiles/listFilesInDirectory" statement-count="11" statements-invoked="11" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="ReadingFoldersAndFiles" class-type="Class" full-class-name="edu.knoldus.ReadingFoldersAndFiles" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/ReadingFoldersAndFiles.scala" method="listFilesInDirectory" start="406" end="443" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="ReadingFoldersAndFiles" class-type="Class" full-class-name="edu.knoldus.ReadingFoldersAndFiles" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/ReadingFoldersAndFiles.scala" method="listFilesInDirectory" start="224" end="557" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="ReadingFoldersAndFiles" class-type="Class" full-class-name="edu.knoldus.ReadingFoldersAndFiles" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/ReadingFoldersAndFiles.scala" method="listFilesInDirectory" start="354" end="367" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="ReadingFoldersAndFiles" class-type="Class" full-class-name="edu.knoldus.ReadingFoldersAndFiles" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/ReadingFoldersAndFiles.scala" method="listFilesInDirectory" start="406" end="419" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="ReadingFoldersAndFiles" class-type="Class" full-class-name="edu.knoldus.ReadingFoldersAndFiles" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/ReadingFoldersAndFiles.scala" method="listFilesInDirectory" start="333" end="375" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="ReadingFoldersAndFiles" class-type="Class" full-class-name="edu.knoldus.ReadingFoldersAndFiles" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/ReadingFoldersAndFiles.scala" method="listFilesInDirectory" start="406" end="436" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="ReadingFoldersAndFiles" class-type="Class" full-class-name="edu.knoldus.ReadingFoldersAndFiles" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/ReadingFoldersAndFiles.scala" method="listFilesInDirectory" start="523" end="553" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="ReadingFoldersAndFiles" class-type="Class" full-class-name="edu.knoldus.ReadingFoldersAndFiles" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/ReadingFoldersAndFiles.scala" method="listFilesInDirectory" start="333" end="346" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="ReadingFoldersAndFiles" class-type="Class" full-class-name="edu.knoldus.ReadingFoldersAndFiles" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/ReadingFoldersAndFiles.scala" method="listFilesInDirectory" start="457" end="511" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="ReadingFoldersAndFiles" class-type="Class" full-class-name="edu.knoldus.ReadingFoldersAndFiles" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/ReadingFoldersAndFiles.scala" method="listFilesInDirectory" start="333" end="368" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="ReadingFoldersAndFiles" class-type="Class" full-class-name="edu.knoldus.ReadingFoldersAndFiles" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/ReadingFoldersAndFiles.scala" method="listFilesInDirectory" start="427" end="435" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="edu.knoldus.TweetCountOperations" filename="edu/knoldus/TweetCountOperations.scala" statement-count="39" statements-invoked="31" statement-rate="79.49" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="edu.knoldus/TweetCountOperations/getNumberOfDaysOfTwitterUser" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="getNumberOfDaysOfTwitterUser" start="1607" end="1645" line="52" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="getNumberOfDaysOfTwitterUser" start="1537" end="1582" line="51" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="getNumberOfDaysOfTwitterUser" start="1507" end="1708" line="50" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="getNumberOfDaysOfTwitterUser" start="1653" end="1702" line="54" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="edu.knoldus/TweetCountOperations/tweetHasgtagCount" statement-count="12" statements-invoked="12" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="tweetHasgtagCount" start="973" end="1057" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="tweetHasgtagCount" start="998" end="1001" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="tweetHasgtagCount" start="1042" end="1056" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="tweetHasgtagCount" start="891" end="910" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="tweetHasgtagCount" start="853" end="871" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="tweetHasgtagCount" start="987" end="987" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="tweetHasgtagCount" start="935" end="966" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="tweetHasgtagCount" start="1035" end="1039" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="tweetHasgtagCount" start="1004" end="1032" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="tweetHasgtagCount" start="998" end="1056" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="tweetHasgtagCount" start="935" end="951" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="tweetHasgtagCount" start="819" end="1063" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="edu.knoldus/TweetCountOperations/averageLikes" statement-count="8" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageLikes" start="2008" end="2163" line="66" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageLikes" start="2035" end="2093" line="67" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageLikes" start="2130" end="2130" line="68" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageLikes" start="2109" end="2109" line="68" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageLikes" start="2100" end="2157" line="68" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageLikes" start="2035" end="2078" line="67" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageLikes" start="2110" end="2128" line="68" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageLikes" start="2136" end="2157" line="68" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="edu.knoldus/TweetCountOperations/averageTweetPerday" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageTweetPerday" start="1259" end="1288" line="39" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageTweetPerday" start="1270" end="1288" line="39" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageTweetPerday" start="1138" end="1288" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageTweetPerday" start="1193" end="1288" line="38" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="edu.knoldus/TweetCountOperations/numberOfTweets" statement-count="2" statements-invoked="2" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="numberOfTweets" start="1371" end="1412" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="numberOfTweets" start="1356" end="1418" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="edu.knoldus/TweetCountOperations/averageReTweets" statement-count="8" statements-invoked="8" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageReTweets" start="1873" end="1935" line="61" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageReTweets" start="1807" end="1850" line="59" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageReTweets" start="1885" end="1885" line="61" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageReTweets" start="1911" end="1935" line="61" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageReTweets" start="1886" end="1903" line="61" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageReTweets" start="1807" end="1865" line="59" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageReTweets" start="1905" end="1905" line="61" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="averageReTweets" start="1777" end="1941" line="58" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="edu.knoldus/TweetCountOperations/&lt;none&gt;" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="TweetCountOperations" class-type="Class" full-class-name="edu.knoldus.TweetCountOperations" source="/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala/edu/knoldus/TweetCountOperations.scala" method="&lt;none&gt;" start="719" end="746" line="24" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>

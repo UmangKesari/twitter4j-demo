@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage 
+line-rate="0.84" lines-valid="50" lines-covered="42" branches-valid="0" branches-covered="0" branch-rate="1.00" complexity="0" version="1.0" timestamp="1501241234836">
+    <sources>
+        <source>--source</source>
+        <source>/home/knoldus/Desktop/Scala 02/Scala_04_Assignment/src/main/scala</source>
+    </sources>
+    <packages>
+        <package name="edu.knoldus" line-rate="0.84" branch-rate="1.00" complexity="0">
+            <classes>
+                <class 
+                name="edu.knoldus.ReadingFoldersAndFiles" filename="edu/knoldus/ReadingFoldersAndFiles.scala" line-rate="1.00" branch-rate="1.00" complexity="0">
+                    <methods>
+                        <method 
+                        name="edu.knoldus/ReadingFoldersAndFiles/listFilesInDirectory" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="15" hits="1" branch="false"/>
+                                <line number="10" hits="1" branch="false"/>
+                                <line number="14" hits="1" branch="false"/>
+                                <line number="15" hits="1" branch="false"/>
+                                <line number="14" hits="1" branch="false"/>
+                                <line number="15" hits="1" branch="false"/>
+                                <line number="20" hits="1" branch="false"/>
+                                <line number="14" hits="1" branch="false"/>
+                                <line number="17" hits="1" branch="false"/>
+                                <line number="14" hits="1" branch="false"/>
+                                <line number="15" hits="1" branch="false"/>
+                            </lines>
+</method>
+                    </methods>
+                    <lines>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="10" hits="1" branch="false"/>
+                        <line number="14" hits="1" branch="false"/>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="14" hits="1" branch="false"/>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="20" hits="1" branch="false"/>
+                        <line number="14" hits="1" branch="false"/>
+                        <line number="17" hits="1" branch="false"/>
+                        <line number="14" hits="1" branch="false"/>
+                        <line number="15" hits="1" branch="false"/>
+                    </lines>
+</class>
+                <class 
+                name="edu.knoldus.TweetCountOperations" filename="edu/knoldus/TweetCountOperations.scala" line-rate="0.79" branch-rate="1.00" complexity="0">
+                    <methods>
+                        <method 
+                        name="edu.knoldus/TweetCountOperations/getNumberOfDaysOfTwitterUser" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="52" hits="1" branch="false"/>
+                                <line number="51" hits="1" branch="false"/>
+                                <line number="50" hits="1" branch="false"/>
+                                <line number="54" hits="1" branch="false"/>
+                            </lines>
+</method>
+                        <method 
+                        name="edu.knoldus/TweetCountOperations/tweetHasgtagCount" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="32" hits="1" branch="false"/>
+                                <line number="32" hits="1" branch="false"/>
+                                <line number="32" hits="1" branch="false"/>
+                                <line number="29" hits="1" branch="false"/>
+                                <line number="28" hits="1" branch="false"/>
+                                <line number="32" hits="1" branch="false"/>
+                                <line number="31" hits="1" branch="false"/>
+                                <line number="32" hits="1" branch="false"/>
+                                <line number="32" hits="1" branch="false"/>
+                                <line number="32" hits="1" branch="false"/>
+                                <line number="31" hits="1" branch="false"/>
+                                <line number="27" hits="1" branch="false"/>
+                            </lines>
+</method>
+                        <method 
+                        name="edu.knoldus/TweetCountOperations/averageLikes" signature="()V" line-rate="0.00" branch-rate="0.00" complexity="0">
+                            <lines>
+                                <line number="66" hits="0" branch="false"/>
+                                <line number="67" hits="0" branch="false"/>
+                                <line number="68" hits="0" branch="false"/>
+                                <line number="68" hits="0" branch="false"/>
+                                <line number="68" hits="0" branch="false"/>
+                                <line number="67" hits="0" branch="false"/>
+                                <line number="68" hits="0" branch="false"/>
+                                <line number="68" hits="0" branch="false"/>
+                            </lines>
+</method>
+                        <method 
+                        name="edu.knoldus/TweetCountOperations/averageTweetPerday" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="39" hits="1" branch="false"/>
+                                <line number="39" hits="1" branch="false"/>
+                                <line number="37" hits="1" branch="false"/>
+                                <line number="38" hits="1" branch="false"/>
+                            </lines>
+</method>
+                        <method 
+                        name="edu.knoldus/TweetCountOperations/numberOfTweets" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="45" hits="1" branch="false"/>
+                                <line number="44" hits="1" branch="false"/>
+                            </lines>
+</method>
+                        <method 
+                        name="edu.knoldus/TweetCountOperations/averageReTweets" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="61" hits="1" branch="false"/>
+                                <line number="59" hits="1" branch="false"/>
+                                <line number="61" hits="1" branch="false"/>
+                                <line number="61" hits="1" branch="false"/>
+                                <line number="61" hits="1" branch="false"/>
+                                <line number="59" hits="1" branch="false"/>
+                                <line number="61" hits="1" branch="false"/>
+                                <line number="58" hits="1" branch="false"/>
+                            </lines>
+</method>
+                        <method 
+                        name="edu.knoldus/TweetCountOperations/&lt;none&gt;" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="24" hits="1" branch="false"/>
+                            </lines>
+</method>
+                    </methods>
+                    <lines>
+                        <line number="32" hits="1" branch="false"/>
+                        <line number="66" hits="0" branch="false"/>
+                        <line number="52" hits="1" branch="false"/>
+                        <line number="61" hits="1" branch="false"/>
+                        <line number="32" hits="1" branch="false"/>
+                        <line number="59" hits="1" branch="false"/>
+                        <line number="67" hits="0" branch="false"/>
+                        <line number="39" hits="1" branch="false"/>
+                        <line number="45" hits="1" branch="false"/>
+                        <line number="61" hits="1" branch="false"/>
+                        <line number="68" hits="0" branch="false"/>
+                        <line number="32" hits="1" branch="false"/>
+                        <line number="29" hits="1" branch="false"/>
+                        <line number="68" hits="0" branch="false"/>
+                        <line number="68" hits="0" branch="false"/>
+                        <line number="61" hits="1" branch="false"/>
+                        <line number="28" hits="1" branch="false"/>
+                        <line number="51" hits="1" branch="false"/>
+                        <line number="32" hits="1" branch="false"/>
+                        <line number="31" hits="1" branch="false"/>
+                        <line number="67" hits="0" branch="false"/>
+                        <line number="39" hits="1" branch="false"/>
+                        <line number="50" hits="1" branch="false"/>
+                        <line number="61" hits="1" branch="false"/>
+                        <line number="32" hits="1" branch="false"/>
+                        <line number="37" hits="1" branch="false"/>
+                        <line number="68" hits="0" branch="false"/>
+                        <line number="38" hits="1" branch="false"/>
+                        <line number="59" hits="1" branch="false"/>
+                        <line number="32" hits="1" branch="false"/>
+                        <line number="32" hits="1" branch="false"/>
+                        <line number="68" hits="0" branch="false"/>
+                        <line number="24" hits="1" branch="false"/>
+                        <line number="44" hits="1" branch="false"/>
+                        <line number="61" hits="1" branch="false"/>
+                        <line number="31" hits="1" branch="false"/>
+                        <line number="58" hits="1" branch="false"/>
+                        <line number="54" hits="1" branch="false"/>
+                        <line number="27" hits="1" branch="false"/>
+                    </lines>
+</class>
+            </classes>
+        </package>
+    </packages>
+</coverage>

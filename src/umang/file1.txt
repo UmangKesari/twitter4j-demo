@@ -1,0 +1,7 @@
+Make sure your sbt version in project/build.properties:
+
+sbt.version = 0.13.13
+Add the plugin in project/plugins.sbt:
+
+addSbtPlugin("org.scoverage" % "sbt-scoverage" % "1.5.0")
+Run the tests with enabled coverage:
